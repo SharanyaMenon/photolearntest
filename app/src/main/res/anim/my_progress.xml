@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/progess">
+<!--自定义进度条，依托旋转动画。只需要引入一张图片即可。然后在需要使用该进度条的地方
+ProgressBar位置下面。引入进度条：方式、android:indeterminateDrawable="@anim/my_progress"引入默认进度条
+        android:indeterminateDuration="800"修改旋转一圈耗费的时间-->
+</rotate>
